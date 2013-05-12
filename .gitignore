@@ -1,3 +1,4 @@
 *.out
 01-processes/*.out
 02-users/*.out
+03-environment-variables/*.out
