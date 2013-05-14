@@ -2,3 +2,4 @@
 01-processes/*.out
 02-users/*.out
 03-environment-variables/*.out
+04-signals/*.out
