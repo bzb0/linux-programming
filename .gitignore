@@ -3,3 +3,4 @@
 02-users/*.out
 03-environment-variables/*.out
 04-signals/*.out
+05-critical-sections/*.out
