@@ -5,3 +5,4 @@
 04-signals/*.out
 05-critical-sections/*.out
 05-critical-sections/*.mem
+06-semaphores/*.out
