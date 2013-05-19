@@ -6,3 +6,4 @@
 05-critical-sections/*.out
 05-critical-sections/*.mem
 06-semaphores/*.out
+07-ipc/*.out
